@@ -1,0 +1,11 @@
+html {
+    background-color: #800080;
+}
+
+.no-route {
+    display: none;
+}
+
+.yes-route {
+    display: none;
+}
